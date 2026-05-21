@@ -7,12 +7,6 @@ title: ofKitty
 
 *openFrameworks with Edit mode. Pi-native. Web-native.*Philosophy
 
-**Stock OF. Addons for the rest.** No core forks for app features. [Raspberry Pi](ofKitty.html#platforms) is the minimum bar; [ESP is on the roadmap](ofKitty.html#platforms).
-
-## Read next
+A **collection** of addons for openFrameworks that prioritizes composition over inheritance. Aimed at always-on **Edit Mode**, **Raspberry Pi**, and **the web**. The toolkit is still openFrameworks: ofApp, ofMain.h, and the addon ecosystem behave the same way.
 
 - **[Philosophy](ofKitty.html)**
-- **[Getting started](getting-started.html)**
-- **[Build speed — `make -j xof`](build-speed.html)**
-
-Source: [ofKitty/.github](https://github.com/ofKitty/.github)
